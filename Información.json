@@ -1,0 +1,16 @@
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Titulo: Alemán - Prueba de nivel - Para cursos segundo cuatrimestre,\nProfesor Reinhard Dlugay\nTitulo: Español - Prueba de nivel - Para cursos segundo cuatrimestre,\nProfesor Beatriz Hernández\nTitulo: Francés - Prueba de nivel - Para cursos segundo cuatrimestre,\nProfesor Marie-Morgane Le Folgoc Titulo: Inglés - Prueba de nivel - para cursos de Inglés para la Docencia y preparatorio de GESE Trinity,\nProfesor María Luisa Capón Mouriz\nTitulo: Inglés - Prueba de nivel - Para cursos segundo cuatrimestre,\nProfesores\nMaría Luisa Capón Mouriz\nRichard James Murison\nMaría Isabel Rodríguez Rodríguez\nBeatriz Freire Betancor\nPeggy Gerd Henriksson Carlsson\nEva Miriam Amaral Ribeiro Sampaio de Andrade\nMarta María González Orta\nTitulo: Inglés - Prueba de nivel - Para preparatorios del FCE/CAE/CPE/IELTS\nProfesor:Clive Tyrell\nTitulo: Italiano - Prueba de nivel - Para cursos segundo cuatrimestre\nProfesor Nicola Cataldo"
+}
